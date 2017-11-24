@@ -1,0 +1,22 @@
+{
+  "name": "browser",
+  "description": "Small description for browser goes here",
+  "main": "",
+  "authors": [
+    "Gary McGhee <gary@buzzware.com.au>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta",
+    "simpleStorage": "^0.2.1"
+  }
+}
